@@ -1,6 +1,6 @@
 .dsmovie-form-container {
     max-width: 480px;
-    margin: 40px auto;
+    margin: 20px auto;
     padding: 20px;
 }
 
@@ -9,7 +9,7 @@
 }
 
 .dsmovie-form-group {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .dsmovie-form-group label {
@@ -42,7 +42,7 @@
     font-size: 14px;
     font-weight: 700;
     margin-bottom: 10px;
-    min-height: 40px;
+    min-height: 20px;
 }
 
 .dsmovie-btn {
